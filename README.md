@@ -18,4 +18,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mehmetkahya0&icon=0&color=1)](https://visitcount.itsvg.in) since 21.04.2023
+[![](https://visitcount.itsvg.in/api?id=mehmetkahya0&icon=0&color=1)](https://visitcount.itsvg.in) since **21.04.2023**
