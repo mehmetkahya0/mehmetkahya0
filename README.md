@@ -16,4 +16,4 @@
 ![](https://github-trophies.vercel.app/?username=mehmetkahya0&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mehmetkahya0&icon=0&color=1)](https://visitcount.itsvg.in) (21.04.2023 - present)
+[![](https://visitcount.itsvg.in/api?id=mehmetkahya0&icon=0&color=1)](https://visitcount.itsvg.in) (21.04.2023 - now)
