@@ -1,4 +1,5 @@
-## 👋
+## 👋![Git_cover](https://github.com/mehmetkahya0/mehmetkahya0/assets/84154488/b75727bd-228e-473e-b22d-b3aeddd4432d)
+
   - I'm a 19-year-old electrical and electronic engineering student who has been coding for almost six years. I'm passionate about space, rockets, books, robotic coding, and back-end technologies.
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmettkahya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mehmettkahya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mehmett_kahya) 
