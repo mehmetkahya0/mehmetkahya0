@@ -1,4 +1,6 @@
-## 👋![Group 6](https://github.com/mehmetkahya0/mehmetkahya0/assets/84154488/42b0271c-601c-4bf1-91cb-d8acc0df68d2)
+## 👋
+![Group 7](https://github.com/mehmetkahya0/mehmetkahya0/assets/84154488/9e1e8f72-36cc-4382-9d79-cff56d07e5d6)
+
 
 
   - I'm a 19-year-old electrical and electronic engineering student who has been coding for almost six years. I'm passionate about space, rockets, books, robotic coding, and back-end technologies.
