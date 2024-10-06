@@ -1,5 +1,5 @@
-## 👋
-![Git_cover](https://github.com/user-attachments/assets/247c745d-53da-47a6-a9a8-9873bc72d150)
+## Hello
+![Git_cover](https://github.com/user-attachments/assets/3fa5f793-1907-49a9-a3aa-09804037ac87)
 
 
   - I'm a 19-year-old electrical and electronic engineering student who has been coding for almost six years. I'm passionate about space, rockets, books, robotic coding, and back-end technologies.
