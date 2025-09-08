@@ -13,11 +13,6 @@
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmettkahya) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mehmettkahya)
-
-<a href="https://www.buymeacoffee.com/mehmetkahy1" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="120">
-</a>
 
 ## 💻 Technologies & Expertise
 
