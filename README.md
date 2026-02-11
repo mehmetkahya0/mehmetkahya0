@@ -93,6 +93,18 @@ I'm a 20-year-old engineer who loves building things — from embedded systems t
 ## 📊 GitHub Statistics
 
 <div align="center">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=84154488" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=84154488&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mehmetkahya0" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=84154488&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmetkahya0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkahya0&theme=tokyonight&hide_border=true" width="49%" />
