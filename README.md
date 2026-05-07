@@ -19,7 +19,7 @@
 📍 Turkey
 ```
 
-I'm a 20-year-old engineer who loves building things — from embedded systems to full-stack apps. When I'm not writing code, you'll find me reading about space tech or tinkering with hardware.
+I'm a 21-year-old engineer who loves building things — from embedded systems to full-stack apps. When I'm not writing code, you'll find me reading about space tech or tinkering with hardware.
 
 **What drives me:**
 
